@@ -24,8 +24,8 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/recipe-sharing-site.git
-   cd recipe-sharing-site
+   git clone https://github.com/jonathancs50/recipe-sharing-site-with-next.git
+   cd recipe-sharing-site-with-next
    ```
 
 2. **Install dependencies**:
