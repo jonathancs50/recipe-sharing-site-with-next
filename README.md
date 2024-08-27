@@ -51,7 +51,7 @@ Ensure you have the following installed on your machine:
 - **components/**: Reusable React components used throughout the site.
 - **styles/**: CSS files for styling the application.
 - **initdb.js**: Script to initialize the SQLite3 database.
-- - **lib/**: Scripts to get and post to the database.
+- **lib/**: Scripts to get and post to the database.
 
 ### Built With
 
